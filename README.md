@@ -25,4 +25,6 @@ Tom Holland has done a great job in the movie. Apart form that there are some ot
 |  Christian Bale      | he has a matured acting style           |      50     |
 |  Hrithik Roshan      | Charming and engertic actor             |      51     |
 ---
-
+####  Favorite Quotes
+> "It is never too late to be what you might have been. " *- George Eliot.
+>"Arise, awake and do not stop until the goal is reached." *- Swami Vivekananda.
