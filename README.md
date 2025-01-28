@@ -15,3 +15,14 @@ The basmati rice addes more flavours to the dal and spices. It's one of the famo
 * Chicken Fry
 
 ![Link of MyMovie-](https://github.com/Vamshi6665/show-Balupari/blob/main/MyMovie.md)
+---
+## Alternative Actors for Spiderman
+Tom Holland has done a great job in the movie. Apart form that there are some other actors i would like to see in the same character are below.
+| Preferred Actor Name |  Reason for the Selection of actor      | Age of Actor|
+|----------------------|-----------------------------------------|-------------|
+| Chiris Hemsworth     | The actor has musuclar physic           |      41     | 
+|  Tom Cruise          | The actor is known for the action stunts|      62     | 
+|  Christian Bale      | he has a matured acting style           |      50     |
+|  Hrithik Roshan      | Charming and engertic actor             |      51     |
+---
+
