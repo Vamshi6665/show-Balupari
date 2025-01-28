@@ -29,3 +29,29 @@ Tom Holland has done a great job in the movie. Apart form that there are some ot
 > "It is never too late to be what you might have been. " *- George Eliot*
 
 >"Arise, awake and do not stop until the goal is reached." *- Swami Vivekananda*
+
+#### How to parse data from a CSV file in Python
+The below code is the to parse data from the CSV file to the python. Atr the start of the code it import csv packages then there is the csv_mapping_list empty list. After that the csv reader variable we are reading the my_data and then using if ,else  condition. At  the last we are using the append to add to the list. 
+
+```python
+import csv
+
+def parse_csv_data(csv_path):
+	csv_mapping_list = []
+
+	with open(csv_path) as my_data:
+	    csv_reader = csv.reader(my_data, delimiter=",")
+	    line_count = 0
+	    for line in csv_reader:
+	        if line_count == 0:
+	            header = line
+	        else:
+	            row_dict = {key: value for key, value in zip(header, line)}
+	            csv_mapping_list.append(row_dict)
+	        line_count += 1 
+```
+Quick Link of the snippet source-<https://code.pieces.app/collections/python>
+
+
+
+
