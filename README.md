@@ -14,7 +14,7 @@ The basmati rice addes more flavours to the dal and spices. It's one of the famo
 * Gobi Fry
 * Chicken Fry
 
-![Link of MyMovie-](https://github.com/Vamshi6665/show-Balupari/blob/main/MyMovie.md)
+[Link of MyMovie-](https://github.com/Vamshi6665/show-Balupari/blob/main/MyMovie.md)
 ---
 ## Alternative Actors for Spiderman
 Tom Holland has done a great job in the movie. Apart form that there are some other actors i would like to see in the same character are below.
